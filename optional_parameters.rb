@@ -9,4 +9,4 @@ def greeting(name, options = {})
 end
 
 greeting("Bob")
-greeting("Bobo", {age: 62, city: "New York City"})
+greeting("Bobo", {cow: "none", age: 62, city: "New York City"})
